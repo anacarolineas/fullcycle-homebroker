@@ -1,0 +1,2 @@
+- go não é uma linguagem orientada a objetos.
+- go não possui classes. Possui struct.
